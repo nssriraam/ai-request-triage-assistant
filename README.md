@@ -1,5 +1,7 @@
 # AI Request Triage Assistant
 
+▶️ **[Watch the Demo Video](https://youtu.be/nLhp8glK49E)**
+
 A working prototype built for the Node Solutions technical challenge. It takes an unstructured client request (email, form, chat) and returns a structured triage: summary, category, priority with reasoning, routing owner, and a ready-to-send draft response.
 
 ## What it does
